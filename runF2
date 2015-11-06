@@ -1,0 +1,10 @@
+echo raid6
+./raid6 ./BenchmarkTraces/Financial/Financial2.spc >> /home/hyahn/workspace/SRsim/ExprRes/raid6_F2_SSD6
+
+echo raid5
+./raid5 ./BenchmarkTraces/Financial/Financial2.spc >> /home/hyahn/workspace/SRsim/ExprRes/raid5_F2_SSD6
+
+
+
+
+
